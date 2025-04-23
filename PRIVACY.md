@@ -2,7 +2,7 @@ This document is a mirror of our official privacy policy, provided for the conve
 
 The operative version of the policy is available at [null.com/privacy](https://null.com/privacy).
 
-## January 1, 2023
+## April 22, 2025
 
 We believe that privacy is a fundamental human right.
 
@@ -25,6 +25,7 @@ We will never sell your information.
 We only share your information if technically or legally required to do so:
 - We use [Mailchimp](https://www.intuit.com/privacy/statement/) to power our mailing list.
 - We use [Formspree](https://formspree.io/legal/privacy-policy/) to collect game pitches.
+- We use [Typeform](https://admin.typeform.com/to/dwk6gt) and Google Forms to gather signups for playtests.
 - [This website](https://null.com/) is hosted on [Vercel](https://vercel.com/legal/privacy-policy).
 - We comply with legal requests made by law enforcement.
 - We only keep your information for as long as we need it. If you unsubscribe from our newsletter, we delete your email address immediately.
